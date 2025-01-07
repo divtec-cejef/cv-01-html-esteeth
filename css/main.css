@@ -8,8 +8,8 @@ body {
     font-weight: 400;
     font-size: 1.2rem;
     line-height: 1.4;
-    color: darkblue;
-    background-color: red;
+    color: Sweet mandarine;
+    background-color: black;
 }
 
 img {
@@ -19,10 +19,10 @@ img {
 }
 
 a {
-    color: deepblue;
+    color: artic white;
     text-decoration: none;
 }
 
 a:hover {
-    color: clearblue;
+    color: red;
 }

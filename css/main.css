@@ -9,7 +9,7 @@ body {
     font-size: 1.2rem;
     line-height: 1.4;
     color: darkblue;
-    background-color: whitesmoke;
+    background-color: red;
 }
 
 img {
@@ -19,10 +19,10 @@ img {
 }
 
 a {
-    color: deeppink;
+    color: deepblue;
     text-decoration: none;
 }
 
 a:hover {
-    color: darkmagenta;
+    color: clearblue;
 }

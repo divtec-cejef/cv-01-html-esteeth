@@ -5,6 +5,7 @@
 header{
     padding:20 0 20 0;
     text-align: left;
+    text-size:
 }
 
 header .logo img {
@@ -27,7 +28,7 @@ body {
 }
 
 main {
-    margin:20 50 20 20
+    margin:20 50 20 20;
 }
 
 img {

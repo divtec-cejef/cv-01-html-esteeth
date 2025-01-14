@@ -15,6 +15,7 @@ header .logo img {
     margin-right: 40px;
     margin-bottom: 60px;
     box-shadow: 4px 4px 10px #880acc;
+    font-style: 1.2;
 }
 
 body {
@@ -35,9 +36,13 @@ img {
 
 a {
     color: #EB9875;
-    text-decoration: none;
+    font-size: 1.4rem;
 }
 
 a:hover {
     color: #F37A48;
+}
+
+h1 {
+    font-size: 1.3rem;
 }

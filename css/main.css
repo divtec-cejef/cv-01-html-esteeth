@@ -26,6 +26,10 @@ body {
     background-color: Black;
 }
 
+main {
+    margin:20 50 20 20
+}
+
 img {
     max-width: 100%;
     height: auto;

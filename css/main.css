@@ -18,14 +18,13 @@ header .logo img {
 }
 
 body {
-    margin: 10 0 10 0;
+    margin: 50 0 50 0;
     font-family: OCR A Extended;
     font-weight: 400;
     font-size: 1.3rem;
     line-height: 1.4;
     color: #E2E3DD;
     background-color: Black;
-    margin:20 50 20 20;
 }
 
 img {

@@ -4,16 +4,16 @@
 }
 header{
     padding:20 0 20 0;
-    text-align: center;
+    text-align: left;
 }
 
 header .logo img {
     float: left;
-    border: 2px dashed greenyellow;
+    border: 2px dashed #880acc;
     padding: 10px;
     margin-right: 40px;
     margin-bottom: 60px;
-    box-shadow: 4px 4px 10px greenyellow;
+    box-shadow: 4px 4px 10px #880acc;
 }
 
 body {
